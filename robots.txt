@@ -5,4 +5,4 @@ User-agent: Googlebot-mobile
 User-agent: Slurp
 User-agent: bingbot
 Allow: /
-Sitemap : http://olo4donline.zipcpu.com/sitemap.xml
+Sitemap : http://olo4donline.wider-challenge.org/sitemap.xml
